@@ -1,0 +1,83 @@
+
+
+
+@media (max-width:992px) {
+
+    .number-counter-section {
+        padding-top: 100px;
+        padding-bottom: 60px;
+    }
+    .number-counter-section .number {
+        padding-bottom: 40px;
+    }
+    .pricing-heading h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .pricing-heading h4 {
+        font-size: 20px;
+    }
+    .pricing-heading ul li {
+        padding-bottom: 28px;
+    }
+    .pricing-heading ul li a {
+        font-size: 16px;
+    }
+    .team-members {
+        margin-bottom: 91px;
+    }
+    .contact-second-option ul li span:nth-child(1){
+        display: block;
+    }
+    .contact-second-option ul li span:nth-child(2){
+
+    }
+}
+@media (max-width:768px) {
+    .p-btn {
+        padding: 3px 17px;
+    }
+    .contact-second-option {
+        padding: 80px 0 0 0;
+        text-align: center;
+    }
+}
+
+@media (max-width:576px) {
+    .about-content {
+        padding-left: 0;
+    }
+    .banner-content {
+        text-align: center;
+    }
+    .pricing-table-items {
+        margin-bottom: 20px;
+    }
+    .p-btn {
+        padding: 10px 30px;
+    }
+    .team-members img {
+        left: 39%;
+    }
+    .m-btn {
+        padding: 7px 42px;
+    }
+    .contact-second-option {
+        text-align: center;
+    }
+   
+}
+
+@media (max-width:462px) {
+    .footer-section h5 {
+        padding: 0 20px;
+    }
+}
+@media (max-width:300px) {
+    .contact-second-option {
+        padding: 48px 0 0 0px;
+    }
+    .team-members img {
+        left: 31%;
+    }
+}

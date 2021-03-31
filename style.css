@@ -1,0 +1,158 @@
+
+
+img{
+    max-width: 100%;
+}
+
+.btn-color{
+    background-color: #8490ff;
+    border-color:  #8490ff;
+}
+.header-section{}
+.header-logo span{
+    color: #76a1fe;
+    margin-right: 10px;
+    font-size: 25px;
+}
+.header-logo h3{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+}
+.our-menu{}
+.our-menu ul{}
+.our-menu ul li{
+    padding: 0px 5px;display: inline-block;
+}
+.our-menu ul li a{
+    display: inline-block;
+    font-size: 21px;
+}
+/* banner-section */
+.banner-section{
+    background-color: #f9f9ff;
+}
+.banner-items{
+   height: 80vh;
+   display: flex;
+   align-items: center;
+}
+
+/* .banner-content p{
+    width: 600px;
+} */
+
+
+/* about-section */
+
+.about-content{
+    height: 91%;
+    padding-left: 48px;
+}
+.banner-content{}
+
+/* number-counter-section */
+.number-counter-section{
+    padding: 100px 0;
+    color: #fff;
+}
+.number-counter-section h1{
+    font-weight: 700;
+}
+.number-counter-section .number{
+    padding-bottom: 0;
+}
+/* pricing-table-section */
+.pricing-table-section{
+    background-color: #f7f9ff;
+}
+.pricing-heading{}
+.pricing-heading ul{
+    list-style: none;
+    padding-left: 0;
+}
+.pricing-heading ul li{
+    padding-bottom: 43px;
+}
+.pricing-heading ul li a{
+    text-decoration: none;
+    color: #95868f;
+    font-size: 25px;
+}
+
+.pricing-table-items{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    padding: 2px 20px 50px 20px;
+    background-color:#ffffff;
+}
+.pricing-heading h1{}
+.pricing-heading h4{}
+.pricing-number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color:#f9f9ff;
+    margin: auto;
+    border-radius: 50%;
+
+    margin-top: 10px;
+}
+.p-btn{
+    display: inline-block;
+    padding: 10px 30px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,.2);
+    border: 2px solid #8490ff;
+    outline: none;
+}
+/* team-section */
+.team-section{
+    padding-top: 150px;
+}
+.team-members{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,.2);
+    padding: 20px 20px 40px 20px;
+    position: relative;
+}
+.team-members h2{
+    margin-bottom: 0;
+}
+.team-members img{
+    position: absolute;
+    top: -59px;
+    left: 20px;
+    width: 110px;
+}
+.m-btn{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+}
+/* contact-section */
+.contact-section{
+    background: #f9f9ff;
+}
+.contact-form{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    padding: 50px;
+    background-color: #ffffff;
+}
+
+.contact-second-option{
+    padding: 80px 0 0 50px;
+}
+.contact-second-option ul{
+    list-style: none;
+    padding-left: 0;
+}
+.contact-second-option ul li{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+/* footer-section */
+.footer-section{
+    background: #04091e;
+}
+.footer-section h5{
+    margin-bottom: 0;
+}
